@@ -27,5 +27,3 @@ document.addEventListener("DOMContentLoaded", function() {
       nuevoP.textContent = "Text cambiat";
     });
   });
-  
-  //hola
